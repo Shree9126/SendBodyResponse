@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SendBodyResponse</string>
+    <string name="sample_string">{
+	"update": [{
+		"account_id": "26",
+		"email": "perusudroid@gmail.com",
+		"product_name": "Product 1",
+		"total": "100"
+	}, {
+		"account_id": "26",
+		"email": "perusudroid@gmail.com",
+		"product_name": "Product 2",
+		"total": "150"
+	}]
+}</string>
+</resources>
